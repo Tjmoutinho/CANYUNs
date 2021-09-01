@@ -1,0 +1,385 @@
+Well Location,Biolog Name,Model SEED Name,ModelSEED ID,BIGG_id
+PM1A1,Negative Control,NULL,NULL,NULL
+PM1A2,L-Arabinose,L-Arabinose,cpd00224,arab__L
+PM1A3,N-Acetyl-D Glucosamine,N-Acetyl-D Glucosamine,cpd00122,acgam
+PM1A4,D-Saccharic Acid,D-Glucarate,cpd00609,glcr
+PM1A5,Succinic Acid,Succinate,cpd00036,succ
+PM1A6,D-Galactose,Galactose,cpd00108,gal
+PM1A7,L-Aspartic Acid,L-Aspartate,cpd00041,asp__L
+PM1A8,L-Proline,L-Proline,cpd00129,pro__L
+PM1A9,D-Alanine,D-Alanine,cpd00117,ala__D
+PM1A10,D-Trehalose,TRHL,cpd00794,tre
+PM1A11,D-Mannose,D-Mannose,cpd00138,man
+PM1A12,Dulcitol,Dulcose,cpd01171,NULL
+PM1B1,D-Serine,D-Serine,cpd00550,ser__D
+PM1B2,D-Sorbitol,Sorbitol,cpd00588,sbt__D
+PM1B3,Glycerol,Glycerol,cpd00100,glyc
+PM1B4,L-Fucose,L-Fucose,cpd00751,fuc__L
+PM1B5,D-Glucuronic Acid,D-Glucuronic Acid,cpd19178,glcur
+PM1B6,D-Gluconic Acid,GLCN,cpd00222,glcn
+PM1B7,"D,L-alpha-Glycerol Phosphate",Glycerol-3-phosphate,cpd00080,glyc3p
+PM1B8,D-Xylose,Xylose,cpd00154,xyl__D
+PM1B9,L-Lactic Acid,L-Lactate,cpd00159,lac__L
+PM1B10,Formic Acid,Formate,cpd00047,for
+PM1B11,D-Mannitol,D-Mannitol,cpd00314,mnl
+PM1B12,L-Glutamic Acid,L-Glutamate,cpd00023,glu__L
+PM1C1,D-Glucose-6-Phosphate,D-Glucose-6-Phosphate,cpd00079,g6p
+PM1C2,D-Galactonic Acid-gamma-Lactone,"D-Galactono-1,4-lactone",cpd02143,gal14lac
+PM1C3,"D,L-Malic Acid","L-Malate, D-Malate","cpd00130, cpd00386","mal__D, mal__L"
+PM1C4,D-Ribose,D-Ribose,cpd00105,rib__D
+PM1C5,Tween 20,Tween 20,cpd13391,NULL
+PM1C6,L-Rhamnose,L-Rhamnose,cpd00396,rmn
+PM1C7,D-Fructose,D-Fructose,cpd00082,fru
+PM1C8,Acetic Acid,Acetate,cpd00029,ac
+PM1C9,alpha-D-Glucose,alpha-D-Glucose,cpd19001,glc__aD
+PM1C10,Maltose,Maltose,cpd00179,malt
+PM1C11,D-Melibiose,Melibiose,cpd03198,melib
+PM1C12,Thymidine,Thymidine,cpd00184,thymd
+PM1D1,L-Asparagine,L-Asparagine,cpd00132,asn__L
+PM1D2,D-Aspartic Acid,D-Aspartic Acid,cpd00320,asp__D
+PM1D3,D-Glucosaminic Acid,Glucosaminate,cpd02351,NULL
+PM1D4,"1,2-Propanediol","1,2-Propanediol",cpd00453,"12ppd__R, 12ppd__S"
+PM1D5,Tween 40,Tween 40,cpd24417,NULL
+PM1D6,alpha-Keto-Glutaric Acid,2-Oxoglutarate,cpd00024,akg
+PM1D7,alpha-Keto-Butyric Acid,2-Oxobutyrate,cpd00094,2obut
+PM1D8,alpha-Methyl-D Galactoside,alpha-Methyl-D-glucoside,cpd15584,amdglc
+PM1D9,alpha-D-Lactose,LACT,cpd00208,lcts
+PM1D10,Lactulose,Lactulose,cpd04349,NULL
+PM1D11,Sucrose,Sucrose,cpd00076,sucr
+PM1D12,Uridine,Uridine,cpd00249,uri
+PM1E1,L-Glutamine,L-Glutamine,cpd00053,gln__L
+PM1E2,m-Tartaric Acid,meso-Tartrate,cpd00432,tartr__M
+PM1E3,D-Glucose-1-Phosphate,Glucose-1-phosphate,cpd00089,g1p
+PM1E4,D-Fructose-6-Phosphate,D-Fructose-6-Phosphate,cpd00072,f6p
+PM1E5,Tween 80,Tween 80,cpd13392,NULL
+PM1E6,alpha-Hydroxy Glutaric Acid-gamma-Lactone,a-hydroxyglutaric acid-g-lactone,cpd23862,NULL
+PM1E7,alpha-Hydroxy Butyric Acid,2-Hydroxybutyrate,cpd03561,"2hb, 2hbut"
+PM1E8,beta-Methyl-D Glucoside,b-Methyl-D-Glucoside,cpd11603,mbdg
+PM1E9,Adonitol,Ribitol,cpd00366,rbt
+PM1E10,Maltotriose,Amylotriose,cpd01262,malttr
+PM1E11,2-Deoxy Adenosine,Deoxyadenosine,cpd00438,dad_2
+PM1E12,Adenosine,Adenosine,cpd00182,and
+PM1F1,Glycyl-L-Aspartic Acid,gly-asp-L,cpd11589,gly_asp__L
+PM1F2,Citric Acid,Citrate,cpd00137,cit
+PM1F3,m-Inositol,L-Inositol,cpd00121,inost
+PM1F4,D-Threonine,D-Threonine,cpd00611,NULL
+PM1F5,Fumaric Acid,Fumarate,cpd00106,fum
+PM1F6,Bromo Succinic Acid,DL-2-bromosuccinate,cpd23859,NULL
+PM1F7,Propionic Acid,Propionate,cpd00141,ppa
+PM1F8,Mucic Acid,D-Mucic acid,cpd00652,galct__D
+PM1F9,Glycolic Acid,Glycolate,cpd00139,glyclt
+PM1F10,Glyoxylic Acid,Glyoxalate,cpd00040,glx
+PM1F11,D-Cellobiose,beta-Cellobiose,cpd03845,cellb
+PM1F12,Inosine,Inosine,cpd00246,ins
+PM1G1,Glycyl-L-Glutamic Acid,gly-glu,cpd24418,gly_glu__L
+PM1G2,Tricarballylic Acid,tricarballylate,cpd16654,tcb
+PM1G3,L-Serine,L-Serine,cpd00054,ser__L
+PM1G4,L-Threonine,L-Threonine,cpd00161,thr__L
+PM1G5,L-Alanine,L-Alanine,cpd00035,ala__L
+PM1G6,L-Alanyl-Glycine,L-alanylglycine,cpd11585,alagly
+PM1G7,Acetoacetic Acid,Acetoacetate,cpd00142,acac
+PM1G8,N-Acetyl-beta-D Mannosamine,N-acetyl-beta-D-mannosamine,cpd27563,acmana
+PM1G9,Mono Methyl Succinate,NULL,NULL,methsucc
+PM1G10,Methyl Pyruvate,methyl pyruvate,cpd24420,NULL
+PM1G11,D-Malic Acid,D-Malate,cpd00386,mal__D
+PM1G12,L-Malic Acid,L-Malate  ,cpd00130,mal__L
+PM1H1,Glycyl-L-Proline,gly-pro,cpd22832,gly_pro__L
+PM1H2,p-Hydroxy Phenyl Acetic Acid,4-Hydroxyphenylacetate,cpd00489,4hphac
+PM1H3,m-Hydroxy Phenyl Acetic Acid,3-Hydroxyphenylacetate,cpd03320,hh3phac
+PM1H4,Tyramine,Tyramine,cpd00374,tym
+PM1H5,D-Psicose,D-Psicose,cpd03884,NULL
+PM1H6,L-Lyxose,L-Lyxose,cpd00368,lyx__L
+PM1H7,Glucuronamide,"2,3,4,5-tetrahydroxy-6-oxo-hexanamide",cpd26269,NULL
+PM1H8,Pyruvic Acid,Pyruvate,cpd00020,pyr
+PM1H9,L-Galactonic Acid-gamma-Lactone,"L-Galactono-1,4-lactone",cpd00820,gal14lac
+PM1H10,D-Galacturonic Acid,D-Galacturonate,cpd00280,galur
+PM1H11,Phenylethylamine,Phenethylamine,cpd03161,peamn
+PM1H12,2-Aminoethanol,Aminoethanol,cpd00162,etha
+PM2AA1,Negative Control 2,NULL,NULL,NULL
+PM2AA2,Chondroitin Sulfate C,Chondroitin 6-sulfate,cpd11717,cs_c
+PM2AA3,alpha-Cyclodextrin,a-cyclodextrin,cpd24451,NULL
+PM2AA4,beta-Cyclodextrin,Betadex,cpd09394,NULL
+PM2AA5,gamma-Cyclodextrin,cyclooctaamylose,cpd24452,NULL
+PM2AA6,Dextrin,Dextrin,cpd11594,dextrin
+PM2AA7,Gelatin,Gelatin,cpd11879,NULL
+PM2AA8,Glycogen,Glycogen,cpd00155,glycogen
+PM2AA9,Inulin,Inulin,cpd27312,NULL
+PM2AA10,Laminarin,Laminarin,cpd11748,NULL
+PM2AA11,Mannan,Mannan,cpd11685,mannan
+PM2AA12,Pectin,Pectin,cpd11601,pectin
+PM2AB1,N-Acetyl-D-Galactosamine,N-acetyl-D-galactosamine,cpd27607,acgal
+PM2AB2,N-Acetyl-Neuraminic Acid,Neu5Ac,cpd00232,acnam
+PM2AB3,beta-D-Allose,D-Allose,cpd01055,all__D
+PM2AB4,Amygdalin,(R)-Amygdalin,cpd01356,NULL
+PM2AB5,D-Arabinose,D-Arabinose,cpd00185,arab__D
+PM2AB6,D-Arabitol,D-Lyxitol,cpd01307,abt__D
+PM2AB7,L-Arabitol,L-Lyxitol,cpd00417,abt__L
+PM2AB8,Arbutin,Ursin,cpd03696,arbt
+PM2AB9,2-Deoxy-D-Ribose,Thyminose,cpd01242,drib
+PM2AB10,i-Erythritol,Phycite,cpd00392,NULL
+PM2AB11,D-Fucose,D-Fucose,cpd00750,NULL
+PM2AB12,3-0-beta-D-Galactopyranosyl-D-Arabinose,3-O-b-D-galactopyranosyl-D-arabinose,cpd24453,NULL
+PM2AC1,Gentiobiose,Gentiobiose,cpd05158,NULL
+PM2AC2,L-Glucose,L-Glucose,cpd24421,NULL
+PM2AC3,Lactitol,4-O-alpha-D-glucopyranosyl-D-glucitol,cpd37280,NULL
+PM2AC4,D-Melezitose,Melezitose,cpd05161,NULL
+PM2AC5,Maltitol,4-O-alpha-D-glucopyranosyl-D-glucitol,cpd37280,NULL
+PM2AC6,a-Methyl-D-Glucoside,alpha-Methyl-D-glucoside,cpd15584,madg
+PM2AC7,beta-Methyl-D-Galactoside,Methyl beta-D-galactoside,cpd02274,NULL
+PM2AC8,3-Methyl Glucose,3-O-methyl-d-glucose,cpd26351,NULL
+PM2AC9,beta-Methyl-D-Glucuronic Acid,1-O-methyl-beta-D-glucuronate,cpd24423,metglcur
+PM2AC10,alpha-Methyl-D-Mannoside,1-O-methyl-alpha-D-mannopyranoside,cpd24424,NULL
+PM2AC11,beta-Methyl-D-Xyloside,1-O-methyl-beta-D-xylopyranose,cpd24425,NULL
+PM2AC12,Palatinose,Palatinose,cpd01200,pala
+PM2AD1,D-Raffinose,Melitose,cpd00382,raffin
+PM2AD2,Salicin,Salicin,cpd01030,salcn
+PM2AD3,Sedoheptulosan,"2,7-anhydro-beta-D-altro-2-heptulopyranose",cpd24426,NULL
+PM2AD4,L-Sorbose,L-Sorbose,cpd00212,srb__L
+PM2AD5,Stachyose,Stachyose,cpd01133,"stchs, stys"
+PM2AD6,D-Tagatose,D-Tagatose,cpd00589,tag__D
+PM2AD7,Turanose,Turanose,cpd20885,NULL
+PM2AD8,Xylitol,Xylitol,cpd00306,xylt
+PM2AD9,N-Acetyl-D-Glucosaminitol,2-Acetamido-2-deoxy-D-glucitol,cpd24427,NULL
+PM2AD10,gamma-Amino Butyric Acid,GABA,cpd00281,4abut
+PM2AD11,delta-Amino Valeric Acid,5-Aminopentanoate,cpd00339,5aptn
+PM2AD12,Butyric Acid,Butyrate,cpd00211,but
+PM2AE1,Capric Acid,Decanoate,cpd01107,dca
+PM2AE2,Caproic Acid,Hexanoate,cpd01113,hxa
+PM2AE3,Citraconic Acid,Citraconate,cpd01502,citac
+PM2AE4,Citramalic Acid,Citramalate,cpd00607,citm
+PM2AE5,D-Glucosamine,GLUM,cpd00276,gam
+PM2AE6,2-Hydroxy Benzoic Acid,NULL,NULL,NULL
+PM2AE7,4-Hydroxy Benzoic Acid,4-Hydroxybenzoate,cpd00136,4hbz
+PM2AE8,beta-Hydroxy Butyric Acid,(R)-3-Hydroxybutanoate,cpd00797,bhb
+PM2AE9,gamma-Hydroxy Butyric Acid,4-Hydroxybutanoate,cpd00728,ghb
+PM2AE10,a-Keto-Valeric Acid,2-Oxovalerate,cpd03737,NULL
+PM2AE11,Itaconic Acid,Itaconate,cpd00380,itacon
+PM2AE12,5-Keto-D-Gluconic Acid,5-Dehydrogluconate,cpd00781,5dglcn
+PM2AF1,D-Lactic Acid Methyl Ester,D-lactate methyl ester,cpd24428,NULL
+PM2AF2,Malonic Acid,Malonate,cpd00308,malon
+PM2AF3,Melibionic Acid,6-O-alpha-D-galactopyranosyl-D-gluconic acid,cpd24454,NULL
+PM2AF4,Oxalic Acid,Oxalate,cpd00180,oxa
+PM2AF5,Oxalomalic Acid,3-Oxalomalate,cpd01363,NULL
+PM2AF6,Quinic Acid,Quinate,cpd00248,quin
+PM2AF7,"D-Ribono-1,4-Lactone","D-(+)-ribono-1,4-lactone",cpd23861,NULL
+PM2AF8,Sebacic Acid,sebacate,cpd05192,sebacid
+PM2AF9,Sorbic Acid,sorbate,cpd16648,NULL
+PM2AF10,Succinamic Acid,succanimate,cpd25518,NULL
+PM2AF11,D-Tartaric Acid,"(S,S)-Tartaric acid",cpd19018,tartr__D
+PM2AF12,L-Tartaric Acid,Tartrate,cpd00666,tartr__L
+PM2AG1,Acetamide,Acetamide,cpd03734,ad
+PM2AG2,L-Alaninamide,L-alaninamide,cpd23030,NULL
+PM2AG3,N-Acetyl-L-Glutamic Acid,N-Acetyl-L-glutamate,cpd00477,acglu
+PM2AG4,L-Arginine,L-Arginine,cpd00051,arg__L
+PM2AG5,Glycine,Glycine,cpd00033,gly
+PM2AG6,L-Histidine,L-Histidine,cpd00119,his__L
+PM2AG7,L-Homoserine,L-Homoserine,cpd00227,hom__L
+PM2AG8,Hydroxy-L-Proline,4-hydroxy-L-proline,cpd29747,4hpro_LT
+PM2AG9,L-Isoleucine,L-Isoleucine,cpd00322,ile__L
+PM2AG10,L-Leucine,L-Leucine,cpd00107,leu__L
+PM2AG11,L-Lysine,L-Lysine,cpd00039,lys__L
+PM2AG12,L-Methionine,L-Methionine,cpd00060,met__L
+PM2AH1,L-Ornithine,Ornithine,cpd00064,orn__L
+PM2AH2,L-Phenylalanine,L-Phenylalanine,cpd00066,phe__L
+PM2AH3,L-Pyroglutamic Acid,5-Oxoproline,cpd01293,5oxpro
+PM2AH4,L-Valine,L-Valine,cpd00156,val__L
+PM2AH5,"D,L-Carnitine","D-Carnitine, Carnitine","cpd00266, cpd10719","crn, crn__D"
+PM2AH6,Sec-Butylamine,2-aminobutane,cpd24429,NULL
+PM2AH7,D.L-Octopamine,Octopamine,cpd02599,NULL
+PM2AH8,Putrescine,Putrescine,cpd00118,ptrc
+PM2AH9,Dihydroxy Acetone,Glycerone,cpd00157,dha
+PM2AH10,"2,3-Butanediol",BDOH,cpd01947,23btdl
+PM2AH11,"2,3-Butanone",NULL,NULL,NULL
+PM2AH12,3-Hydroxy 2-Butanone,ACTN,cpd00361,NULL
+PM3BA1,Negative Control 3,NULL,NULL,NULL
+PM3BA2,Ammonia,NH3,cpd00013,nh3
+PM3BA3,Nitrite,Nitrite,cpd00075,no2
+PM3BA4,Nitrate,Nitrate,cpd00209,no3
+PM3BA5,Urea,Urea,cpd00073,urea
+PM3BA6,Biuret,Biuret,cpd03963,NULL
+PM3BA7,L-Alanine,L-Alanine,cpd00035,ala__L
+PM3BA8,L-Arginine,L-Arginine,cpd00051,arg__L
+PM3BA9,L-Asparagine,L-Asparagine,cpd00132,asn__L
+PM3BA10,L-Aspartic Acid,L-Aspartate,cpd00041,asp__L
+PM3BA11,L-Cysteine,L-Cysteine,cpd00084,cys__L
+PM3BA12,L-Glutamic Acid,L-Glutamate,cpd00023,glu__L
+PM3BB1,L-Glutamine,L-Glutamine,cpd00053,gln__L
+PM3BB2,Glycine,Glycine,cpd00033,gly
+PM3BB3,L-Histidine,L-Histidine,cpd00119,his__L
+PM3BB4,L-Isoleucine,L-Isoleucine,cpd00322,ile__L
+PM3BB5,L-Leucine,L-Leucine,cpd00107,leu__L
+PM3BB6,L-Lysine,L-Lysine,cpd00039,lys__L
+PM3BB7,L-Methionine,L-Methionine,cpd00060,met__L
+PM3BB8,L-Phenylalanine,L-Phenylalanine,cpd00066,phe__L
+PM3BB9,L-Proline,L-Proline,cpd00129,pro__L
+PM3BB10,L-Serine,L-Serine,cpd00054,ser__L
+PM3BB11,L-Threonine,L-Threonine,cpd00161,thr__L
+PM3BB12,L-Tryptophan,L-Tryptophan,cpd00065,trp__L
+PM3BC1,L-Tyrosine,L-Tyrosine,cpd00069,tyr__L
+PM3BC2,L-Valine,L-Valine,cpd00156,val__L
+PM3BC3,D-Alanine,D-Alanine,cpd00117,ala__D
+PM3BC4,D-Asparagine,D-Asparagine,cpd01308,asn__D
+PM3BC5,D-Aspartic Acid,D-Aspartate,cpd00320,asp__D
+PM3BC6,D-Glutamic Acid,D-Glutamate,cpd00186,glu__D
+PM3BC7,D-Lysine,D-Lysine,cpd00549,lys__D
+PM3BC8,D-Serine,D-Serine,cpd00550,ser__D
+PM3BC9,D-Valine,D-Valine,cpd03840,val__D
+PM3BC10,L-Citrulline,Citrulline,cpd00274,citr__L
+PM3BC11,L-Homoserine,L-Homoserine,cpd00227,hom__L
+PM3BC12,L-Ornithine,Ornithine,cpd00064,orn__L
+PM3BD1,N-Acetyl-L-Glutamic Acid,N-Acetyl-L-glutamate,cpd00477,acglu
+PM3BD2,N-Phthaloyl-L-Glutamic Acid,"2-(1,3-dioxoisoindol-2-yl)glutaric acid",cpd24431,NULL
+PM3BD3,L-Pyroglutamic Acid,5-Oxoproline,cpd01293,5oxpro
+PM3BD4,Hydroxylamine,Hydroxylamine,cpd00165,ham
+PM3BD5,Methylamine,Methanamine,cpd00187,mma
+PM3BD6,N-Amylamine,1-aminopentane,cpd24432,NULL
+PM3BD7,N-Butylamine,Butylamine,cpd19969,NULL
+PM3BD8,Ethylamine,Ethylamine,cpd00591,NULL
+PM3BD9,Ethanolamine,Aminoethanol,cpd00162,etha
+PM3BD10,Ethylenediamine,"1,2-diaminoethane",cpd24433,NULL
+PM3BD11,Putrescine,Putrescine,cpd00118,ptrc
+PM3BD12,Agmatine,Agmatine,cpd00152,agm
+PM3BE1,Histamine,Histamine,cpd00312,hista
+PM3BE2,beta-Phenylethylamine,Phenethylamine,cpd03161,peamn
+PM3BE3,Tyramine,Tyramine,cpd00374,tym
+PM3BE4,Acetamide,Acetamide,cpd03734,ad
+PM3BE5,Formamide,Formamide,cpd00378,frmd
+PM3BE6,Glucuronamide,"2,3,4,5-tetrahydroxy-6-oxo-hexanamide",cpd26269,NULL
+PM3BE7,"D,L-Lactamide","D,L-Lactamide",cpd23860,NULL
+PM3BE8,D-Glucosamine,GLUM,cpd00276,gam
+PM3BE9,D-Galactosamine,D-Chondrosamine,cpd01524,galam
+PM3BE10,D-Mannosamine,D-Mannosamine,cpd02241,NULL
+PM3BE11,N-Acetyl-D-Glucosamine,N-Acetyl-D-Glucosamine,cpd00122,acgam
+PM3BE12,N-Acetyl-D-Galactosamine,N-acetyl-D-galactosamine,cpd27607,acgal
+PM3BF1,N-Acetyl-D-Mannosamine,N-Acetyl-D-mannosamine,cpd00492,acmana
+PM3BF2,Adenine,Adenine,cpd00128,ade
+PM3BF3,Adenosine,Adenosine,cpd00182,adn
+PM3BF4,Cytidine,Cytidine,cpd00367,cytd
+PM3BF5,Cytosine,Cytosine,cpd00307,csn
+PM3BF6,Guanine,Guanine,cpd00207,gua
+PM3BF7,Guanosine,Guanosine,cpd00311,gsn
+PM3BF8,Thymine,Thymine,cpd00151,thym
+PM3BF9,Thymidine,Thymidine,cpd00184,thymd
+PM3BF10,Uracil,Uracil,cpd00092,ura
+PM3BF11,Uridine,Uridine,cpd00249,uri
+PM3BF12,Inosine,Inosine,cpd00246,ins
+PM3BG1,Xanthine,XAN,cpd00309,xan
+PM3BG2,Xanthosine,Xanthosine,cpd01217,xtsn
+PM3BG3,Uric Acid,Urate,cpd00300,urate
+PM3BG4,Alloxan,"2,4,5,6(1H,3H)-pyrimidinetetrone",cpd24434,CE0074
+PM3BG5,Allantoin,Allantoin,cpd01092,alltn
+PM3BG6,Parabanic Acid,"2,4,5-trioxoimidazolidine",cpd24435,NULL
+PM3BG7,"D,L-alpha-Amino-N-Butyric Acid",D-2-Aminobutyrate,cpd01523,NULL
+PM3BG8,gamma-Amino-N-Butyric Acid,GABA,cpd00281,4abut
+PM3BG9,epsilon-Amino-N-Caproic Acid,Epsilcapramine,cpd01588,6ax
+PM3BG10,"D,L-alpha-Amino-Caprylic Acid",2-aminocaprylate,cpd24436,NULL
+PM3BG11,delta-Amino-N-Valeric Acid,5-Aminopentanoate,cpd00339,5aptn
+PM3BG12,alpha-Amino-N-Valeric Acid,D-Norvaline,cpd01241,NULL
+PM3BH1,Ala-Asp,ala-L-asp-L,cpd11593,ala_L_asp__L
+PM3BH2,Ala-Gln,Ala-Gln,cpd11587,ala_gln
+PM3BH3,Ala-Glu,L-alanine-L-glutamate,cpd15388,ala_L_glu__L
+PM3BH4,Ala-Gly,L-alanylglycine,cpd11585,"alagly, L_alagly"
+PM3BH5,Ala-His,Ala-His,cpd11584,ala_his
+PM3BH6,Ala-Leu,Ala-Leu,cpd11583,ala_leu
+PM3BH7,Ala-Thr,Ala-Thr,cpd23857,ala_L_Thr__L
+PM3BH8,Gly-Asn,Gly-Asn,cpd23855,gly_asn__L
+PM3BH9,Gly-Gln,Gly-Gln,cpd11580,gly_gln__L
+PM3BH10,Gly-Glu,Gly-Glu,cpd24418,gly_glu__L
+PM3BH11,Gly-Met,Gly-Met,cpd11591,gly_met
+PM3BH12,Met-Ala,Met-Ala,cpd23854,met_L_ala__L
+PM4A1,Negative Control 4,NULL,NULL,NULL
+PM4A2,Phosphate,Phosphate,cpd00009,pi
+PM4A3,Pyrophosphate,Ppi,cpd00012,ppi
+PM4A4,Trimetaphosphate,Trimetaphosphate,cpd01622,tmp
+PM4A5,Tripolyphosphate,Triphosphate,cpd00421,pppi
+PM4A6,Triethyl phosphate,NULL,NULL,NULL
+PM4A7,Hypophosphite,Phosphinate,cpd03166,NULL
+PM4A8,Adenosine 2'-monophosphate,AMP 2'-phosphate,cpd00700,amp2p
+PM4A9,Adenosine 3'-monophosphate,3'-AMP,cpd00988,3amp
+PM4A10,Adenosine 5'-monophosphate,AMP,cpd00018,amp
+PM4A11,"Adenosine 2',3'-cyclic monophosphate","2',3'-Cyclic AMP",cpd01570,23camp
+PM4A12,"Adenosine 3',5'-cyclic monophosphate",cAMP,cpd00446,camp
+PM4B1,Thiophosphate,NULL,NULL,NULL
+PM4B2,Dithiophosphate,Dithiophosphate,cpd24445,NULL
+PM4B3,DL-alpha-Glycerol Phosphate,Glycerol-3-phosphate,cpd00080,glyc3p
+PM4B4,Beta-Glycerol Phosphate,Glycerol 2-phosphate,cpd01908,glyc2p
+PM4B5,Carbamoyl Phosphate,Carbamoylphosphate,cpd00146,cbp
+PM4B6,D-2-Phospho-Glyceric acid,2-Phospho-D-glycerate,cpd00482,2pg
+PM4B7,D-3-Phospho-Glyceric acid,3-Phosphoglycerate,cpd00169,3pg
+PM4B8,Guanosine 2'-Monophosphate,NULL,NULL,NULL
+PM4B9,Guanosine 3'-Monophosphate,NULL,NULL,NULL
+PM4B10,Guanosine 5'-Monophosphate,GMP,cpd00126,gmp
+PM4B11,"Guanosine 2',3'-cyclic Monophosphate","2',3'-Cyclic GMP",cpd03701,3gmp
+PM4B12,"Guanosine 3',5'-cyclic Monophosphate",cGMP,cpd00697,35cgmp
+PM4C1,Phosphoenol Pyruvate,Phosphoenolpyruvate,cpd00061,pep
+PM4C2,Phospho-Glycolic acid,2-Phosphoglycolate,cpd00727,2pglyc
+PM4C3,D-glucose-1-phosphate,Glucose-1-phosphate,cpd00089,g1p
+PM4C4,D-glucose-6-phosphate,alpha-D-Glucose 6-phosphate,cpd19006,g6p
+PM4C5,2-Deoxy-D-Glucose 6-Phosphate,2-Deoxy-D-glucose 6-phosphate,cpd03805,2doxg6p
+PM4C6,D-Glucosamine-6-Phosphate,D-Glucosamine phosphate,cpd00288,gam6p
+PM4C7,6-Phospho-Gluconic acid,NULL,NULL,NULL
+PM4C8,Cytidine 2'-monophosphate,NULL,NULL,NULL
+PM4C9,Cytidine 3'-monophosphate,3'-CMP,cpd03454,3cmp
+PM4C10,Cytidine 5'-monophosphate,cmp,cpd00046,cmp
+PM4C11,"Cytidine 2',3'-cyclic monophosphate","2',3'-Cyclic CMP",cpd01571,23ccmp
+PM4C12,"Cytidine 3',5'-cyclic monophosphate","3',5'-Cyclic CMP",cpd00696,35ccmp
+PM4D1,D-mannose-1-phosphate,D-Mannose1-phosphate,cpd00485,man1p
+PM4D2,D-mannose-6-phosphate,D-mannose-6-phosphate,cpd00235,man6p
+PM4D3,Cysteamine-S-phosphate,NULL,NULL,NULL
+PM4D4,Phospho-L-arginine,Phosphoarginine,cpd03535,argp
+PM4D5,O-phospho-D-serine,D-O-Phosphoserine,cpd01665,pser__D
+PM4D6,O-phospho-L-serine,phosphoserine,cpd00738,pser__L
+PM4D7,O-phospho-L-threonine,L-Threonine phosphate,cpd08928,thrp
+PM4D8,Uridine 2'-monophosphate,NULL,NULL,NULL
+PM4D9,Uridine 3'-monophosphate,3'-UMP,cpd00989,3ump
+PM4D10,Uridine 5'-monophosphate,UMP,cpd00091,ump
+PM4D11,"Uridine 2',3'-cyclic monophosphate","2',3'-Cyclic UMP",cpd01572,23cump
+PM4D12,"Uridine 3',5'-cyclic monophosphate",NULL,NULL,NULL
+PM4E1,O-phospho-D-tyrosine,NULL,NULL,NULL
+PM4E2,O-phospho-L-tyrosine,NULL,NULL,NULL
+PM4E3,Phosphocreatine,Phosphocreatine,cpd01550,pcreat
+PM4E4,Phosphoryl choline,Phosphocholine,cpd00457,cholp
+PM4E5,O-phosphoryl-ethanolamine,Phosphoethanolamine,cpd00285,ethamp
+PM4E6,Phosphono acetic acid,Fosfonet,cpd03385,"ppac, phnac"
+PM4E7,2-aminoethyl phosphonic acid,Ciliatine,cpd02233,2ameph
+PM4E8,Methylene diphosphonic acid,NULL,NULL,NULL
+PM4E9,Thymidine 3'-monophosphate,NULL,NULL,NULL
+PM4E10,Thymidine 5'-monophosphate,Thymidine,cpd00184,thymd
+PM4E11,Inositol hexaphosphate,Phytate,cpd00885,minohp
+PM4E12,"Thymidine 3',5'-cyclic monophosphate",thymidine 3'5'-cyclic monophosphate,cpd24443,NULL
+PM4F1,sulfur netative control,NULL,NULL,NULL
+PM4F2,sulfate,sulfate,cpd00048,so4
+PM4F3,thiosulfate,H2S2O3,cpd00268,tsul
+PM4F4,Tetrathionate,Tetrathionate,cpd01414,tet
+PM4F5,Thiophosphate,NULL,NULL,NULL
+PM4F6,Dithiophosphate,NULL,NULL,NULL
+PM4F7,L-cysteine,L-Cysteine,cpd00084,cys__L
+PM4F8,D-cysteine,D-Cysteine,cpd00587,cys__D
+PM4F9,Cys-Gly,Cys-Gly,cpd01017,cgly
+PM4F10,L-cysteic acid,NULL,NULL,NULL
+PM4F11,Cysteamine,Cysteamine,cpd01160,cysam
+PM4F12,L-cysteine sultinic acid,3-Sulfinoalanine,cpd00467,3sala
+PM4G1,N-acetyl-l-cysteine,Acetylcysteine,cpd04181,CE1310
+PM4G2,S-methyl-l-cysteine,NULL,NULL,NULL
+PM4G3,Cystathionine,L-Cystathionine,cpd19019,cyst__L
+PM4G4,Lanthionine,Lanthionine,cpd11577,lanth
+PM4G5,Glutathione,GSH,cpd00042,gthrd
+PM4G6,DL-ethionine,Ethionine,cpd08093,NULL
+PM4G7,L-methionine,L-Methionine,cpd00060,met__L
+PM4G8,D-methionine,D-methionine,cpd00637,met__D
+PM4G9,Gly-met,Gly-Met,cpd11591,gly_met
+PM4G10,"N-acetyl-D,L-methionine",N-Acetylmethionine,cpd01756,acmet
+PM4G11,L-methionine sulfoxide,L-Methionine S-oxide,cpd01914,metsox_S__L
+PM4G12,L-methionine sulfone,NULL,NULL,NULL
+PM4H1,L-djenkolic acid,Djenkolate,cpd05190,djenk
+PM4H2,Thiourea,Thiourea,cpd10114,NULL
+PM4H3,1-Thio-beta-D-glucose,NULL,NULL,NULL
+PM4H4,DL-lipoamide,lipoamide,cpd00213,lpam
+PM4H5,Taurocholic acid,Taurocholate,cpd03047,tchola
+PM4H6,Taurine,Taurine,cpd00210,taur
+PM4H7,Hypotaurine,Hypotaurine,cpd00406,hyptaur
+PM4H8,p-Aminobenzene sulfonic acid,Sulfanilic acid,cpd03776,NULL
+PM4H9,Butane sulfonic acid,NULL,NULL,NULL
+PM4H10,2-hydroxyethane sulfonic acid,Isethionate,cpd03048,isetac
+PM4H11,Methane sulfonic acid,methanesulfonate,cpd08023,mso3
+PM4H12,Tetramethylene sulfone,NULL,NULL,NULL
