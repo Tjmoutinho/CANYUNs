@@ -344,9 +344,9 @@ def make_usage_dict(model, solution_dict, gng_dict_long):
 
 def add_exs(model, universal_model, media_conditions_dict):
     
-    """"
+    """
     Add exchange reaction to a model from a universal model
-    """"
+    """
     
     # Added all necessary exchanges to the gapfilled carveme model
     model_exs = deepcopy(model)
